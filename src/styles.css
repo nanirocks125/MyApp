@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0px !important;
+
+}
+
+body{
+    /* height: 100vh; */
+    /* width: 100%; */
+    /* background-color: black */
+
+    background-image: url(./assets/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover
+
+  }
+.overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+  height: 100vh;
+  width: 100vw;
+}
